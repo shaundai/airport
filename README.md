@@ -1,3 +1,15 @@
+## Airport
+
+#### TypeScript Challenge
+
+## Purpose
+
+My personal goal with this project was to learn and practice the following technologies:
+- TypeScript
+- React Testing Library
+
+## Requirements
+
 "Airport"
 1. Create a Passenger type with the following properties (+ = required)
    - first name+
